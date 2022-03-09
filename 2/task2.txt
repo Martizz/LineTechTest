@@ -1,0 +1,1 @@
+Assuming that we know the length of the robotic arms, we need to read out positions, in which the motors from encoders are present. This leaves us with calculating geometry of all the system. 
