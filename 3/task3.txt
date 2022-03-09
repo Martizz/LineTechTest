@@ -1,0 +1,1 @@
+The method that we need is the topic method, because it is used for sending data between nodes. They are communicating between each other using topic - node that creates data is called publisher and node that collects data is called subscriber.
